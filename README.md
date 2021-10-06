@@ -1,1 +1,2 @@
-<h1 align="center">Weather and News app<br></h1>
+# Weather and News App
+This website is all about displaying Weather and News of your area
